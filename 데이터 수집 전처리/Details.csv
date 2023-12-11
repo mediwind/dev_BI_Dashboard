@@ -1,0 +1,102 @@
+Company,Ticker,GICS Sector,GICS Sub-Industry,Market_Capital
+Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals",2.97751E+12
+Airbnb,ABNB,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",85461073920
+Adobe Inc.,ADBE,Information Technology,Application Software,2.70544E+11
+Analog Devices,ADI,Information Technology,Semiconductors,90364346368
+ADP,ADP,Industrials,Human Resource & Employment Services,95527641088
+Autodesk,ADSK,Information Technology,Application Software,46755405824
+American Electric Power,AEP,Utilities,Electric Utilities,42175254528
+Align Technology,ALGN,Health Care,Health Care Supplies,16616779776
+Applied Materials,AMAT,Information Technology,Semiconductor Equipment,1.22494E+11
+Advanced Micro Devices Inc.,AMD,Information Technology,Semiconductors,1.89272E+11
+Amgen,AMGN,Health Care,Biotechnology,1.45499E+11
+Amazon,AMZN,Consumer Discretionary,Broadline Retail,1.48148E+12
+Ansys,ANSS,Information Technology,Application Software,24757878784
+ASML Holding,ASML,Information Technology,Semiconductor Equipment,2.76381E+11
+Broadcom Inc.,AVGO,Information Technology,Semiconductors,4.75209E+11
+AstraZeneca,AZN,Health Care,Pharmaceuticals,1.98979E+11
+Biogen,BIIB,Health Care,Biotechnology,33685886976
+Booking Holdings,BKNG,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1.08315E+11
+Baker Hughes,BKR,Energy,Oil & Gas Equipment & Services,33943205888
+Cadence Design Systems,CDNS,Information Technology,Application Software,70806372352
+Constellation Energy,CEG,Utilities,Multi-Utilities,37856350208
+Charter Communications,CHTR,Communication Services,Cable & Satellite,58783408128
+Comcast,CMCSA,Communication Services,Cable & Satellite,1.72777E+11
+Costco,COST,Consumer Staples,Consumer Staples Merchandise Retail,2.6514E+11
+Copart,CPRT,Industrials,Diversified Support Services,46753644544
+CrowdStrike,CRWD,Information Technology,Application Software,56338018304
+Cisco,CSCO,Information Technology,Communications Equipment,1.94478E+11
+CoStar Group,CSGP,Real Estate,Real Estate Services,34608766976
+CSX Corporation,CSX,Industrials,Rail Transportation,65890099200
+Cintas,CTAS,Industrials,Diversified Support Services,56174518272
+Cognizant,CTSH,Information Technology,IT Consulting & Other Services,35602829312
+Datadog,DDOG,Information Technology,Application Software,38867939328
+Dollar Tree,DLTR,Consumer Staples,Consumer Staples Merchandise Retail,27910492160
+DexCom,DXCM,Health Care,Health Care Equipment,44606238720
+Electronic Arts,EA,Communication Services,Interactive Home Entertainment,37001658368
+eBay,EBAY,Consumer Discretionary,Broadline Retail,21459404800
+Enphase Energy,ENPH,Information Technology,Electronic Components,14673771520
+Exelon,EXC,Utilities,Multi-Utilities,38553272320
+Diamondback Energy,FANG,Energy,Oil & Gas Exploration & Production,27586957312
+Fastenal,FAST,Industrials,Building Products,34561794048
+Fortinet,FTNT,Information Technology,Systems Software,39946678272
+GE HealthCare,GEHC,Health Care,Health Care Technology,31357136896
+GlobalFoundries,GFS,Information Technology,Semiconductors,28810604544
+Gilead Sciences,GILD,Health Care,Biotechnology,97440325632
+Alphabet Inc. (Class C),GOOG,Communication Services,Interactive Media & Services,1.61966E+12
+Alphabet Inc. (Class A),GOOGL,Communication Services,Interactive Media & Services,1.61946E+12
+Honeywell,HON,Industrials,Industrial Conglomerates,1.30235E+11
+Idexx Laboratories,IDXX,Health Care,Health Care Equipment,42446888960
+"Illumina, Inc.",ILMN,Health Care,Life Sciences Tools & Services,18067470336
+Intel,INTC,Information Technology,Semiconductors,1.77662E+11
+Intuit,INTU,Information Technology,Application Software,1.58388E+11
+Intuitive Surgical,ISRG,Health Care,Health Care Equipment,1.09273E+11
+JD.com,JD,Consumer Discretionary,Broadline Retail,41229172736
+Keurig Dr Pepper,KDP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,44970614784
+Kraft Heinz,KHC,Consumer Staples,Packaged Foods & Meats,43854938112
+KLA Corporation,KLAC,Information Technology,Semiconductor Equipment,72289992704
+Lucid Motors,LCID,Consumer Discretionary,Automobile Manufacturers,9915979776
+Lam Research,LRCX,Information Technology,Semiconductor Equipment,92147998720
+Lululemon,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",57475551232
+Marriott International,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",61018714112
+Microchip Technology,MCHP,Information Technology,Semiconductors,45401792512
+Mondelēz International,MDLZ,Consumer Staples,Packaged Foods & Meats,96828030976
+MercadoLibre,MELI,Consumer Discretionary,Broadline Retail,80080183296
+Meta Platforms,META,Communication Services,Interactive Media & Services,8.16694E+11
+Monster Beverage,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,57473908736
+Moderna,MRNA,Health Care,Biotechnology,29762076672
+Marvell Technology,MRVL,Information Technology,Application Software,44348846080
+Microsoft,MSFT,Information Technology,Systems Software,2.7211E+12
+Micron Technology,MU,Information Technology,Semiconductors,81013784576
+Netflix,NFLX,Communication Services,Movies & Entertainment,1.97827E+11
+Nvidia,NVDA,Information Technology,Semiconductors,1.12475E+12
+NXP,NXPI,Information Technology,Semiconductors,52950966272
+Old Dominion Freight Line,ODFL,Industrials,Cargo Ground Transportation,43671785472
+Onsemi,ON,Information Technology,Semiconductors,31367735296
+O'Reilly Automotive,ORLY,Consumer Discretionary,Automotive Retail,57893761024
+Palo Alto Networks,PANW,Information Technology,Systems Software,89157378048
+Paychex,PAYX,Industrials,Human Resource & Employment Services,44756643840
+Paccar,PCAR,Industrials,Construction Machinery & Heavy Transportation Equipment,48876224512
+PDD Holdings,PDD,Consumer Discretionary,Broadline Retail,1.85969E+11
+PepsiCo,PEP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,2.32626E+11
+PayPal,PYPL,Financials,Transaction & Payment Processing Services,63825891328
+Qualcomm,QCOM,Information Technology,Semiconductors,1.44211E+11
+Regeneron,REGN,Health Care,Biotechnology,89097945088
+Ross Stores,ROST,Consumer Discretionary,Apparel Retail,44640161792
+Starbucks,SBUX,Consumer Discretionary,Restaurants,1.1051E+11
+Seagen,SGEN,Health Care,Biotechnology,40156921856
+Sirius XM,SIRI,Communication Services,Broadcasting,17297111040
+Synopsys,SNPS,Information Technology,Application Software,79931211776
+Atlassian,TEAM,Information Technology,Application Software,49962803200
+T-Mobile US,TMUS,Communication Services,Wireless Telecommunication Services,1.77445E+11
+"Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers,7.48858E+11
+The Trade Desk,TTD,Communication Services,Advertising,33509349376
+Texas Instruments,TXN,Information Technology,Semiconductors,1.42306E+11
+Verisk,VRSK,Industrials,Research & Consulting Services,34609848320
+Vertex Pharmaceuticals,VRTX,Health Care,Biotechnology,90093707264
+Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail,17891678208
+Warner Bros. Discovery,WBD,Communication Services,Broadcasting,27482685440
+"Workday, Inc.",WDAY,Information Technology,Application Software,70110535680
+Xcel Energy,XEL,Utilities,Multi-Utilities,33942200320
+Zoom Video Communications,ZM,Information Technology,Application Software,20652056576
+Zscaler,ZS,Information Technology,Application Software,28949684224
